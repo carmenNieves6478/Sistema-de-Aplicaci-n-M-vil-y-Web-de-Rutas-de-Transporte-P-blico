@@ -1,4 +1,4 @@
-# Sistema-de-Aplicaci-n-M-vil-y-Web-de-Rutas-de-Transporte-P-blico
+# Sistema-de-Aplicacion Movil y Web de Rutas de Transporte Publico
 Sistema de Informacion afines del Transporte
 Este proyecto es un sistema de aplicación móvil y web diseñado para facilitar la consulta de rutas de transporte público, visualización de horarios y tarifas, realización de pagos y administración de rutas y servicios relacionados con el transporte público.
 
